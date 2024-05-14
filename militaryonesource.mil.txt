@@ -13,6 +13,9 @@ auth1.pre.militaryonesource.mil
 auth2.pre.militaryonesource.mil
 auth3.pre.militaryonesource.mil
 autodiscover.militaryonesource.mil
+bear.militaryonesource.mil
+bear-feedback.militaryonesource.mil
+bear-feedback.pre.militaryonesource.mil
 bear-intake.militaryonesource.mil
 bear-intake.pre.militaryonesource.mil
 bear.pre.militaryonesource.mil
@@ -43,6 +46,7 @@ efmpandme.militaryonesource.mil
 efmpandme.pre.militaryonesource.mil
 efmpeducationdirectory.militaryonesource.mil
 efmpeducationdirectory.pre.militaryonesource.mil
+esign.militaryonesource.mil
 esign.pre.militaryonesource.mil
 gc.militaryonesource.mil
 gcn.militaryonesource.mil
@@ -53,6 +57,7 @@ images.pre.militaryonesource.mil
 installations.militaryonesource.mil
 installations.pre.militaryonesource.mil
 jfsap.militaryonesource.mil
+jjis.militaryonesource.mil
 legacysupportrequest.uat.militaryonesource.mil
 m.militaryonesource.mil
 mflc-cms.militaryonesource.mil
@@ -96,6 +101,7 @@ pre.blog-brigade.militaryonesource.mil
 pre.forums.militaryonesource.mil
 pre.msepjobs.militaryonesource.mil
 pre.sso.militaryonesource.mil
+projects.militaryonesource.mil
 projects.pre.militaryonesource.mil
 public.militaryonesource.mil
 public.pre.militaryonesource.mil

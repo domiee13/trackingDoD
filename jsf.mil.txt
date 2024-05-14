@@ -1,5 +1,7 @@
 afds.jsf.mil
 apce-fwl-mgmt01.jsf.mil
+auth.il5.jsf.mil
+auth5.jsf.mil
 av.jsf.mil
 cc-extweb.jsf.mil
 cc-ps-1.jsf.mil

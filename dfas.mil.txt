@@ -346,6 +346,7 @@ referencetool-as-v-temp.dfas.mil
 referencetool-dssn.dfas.mil
 referencetool-dssn-v-temp.dfas.mil
 referencetool-v.dfas.mil
+remedy-coop.dfas.mil
 rewards.dfas.mil
 sid.dfas.mil
 smartdocs.dfas.mil

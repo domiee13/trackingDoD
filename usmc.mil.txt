@@ -270,6 +270,8 @@ cmclogin.hqmc.usmc.mil
 cmcportal.hqmc.usmc.mil
 cmfc01e.cmfc.usmc.mil
 cmfcs01c.cmfc.usmc.mil
+cmgusmc.usmc.mil
+cmgusmc.mcdsus.mcds.usmc.mil
 cmpg.hqi.usmc.mil
 cms.hqmc.usmc.mil
 cn01.cdc.usmc.mil
@@ -324,6 +326,7 @@ cwsfw00.usmc.mil
 cwtest.marinenet.usmc.mil
 cyberranges.usmc.mil
 d15615192.usmc.mil
+d1bossbc1.rcen.marines.usmc.mil
 d2.usmc.mil
 dag-ncn1-1.mcw.ad.usmc.mil
 dash.manpower.usmc.mil
@@ -478,6 +481,7 @@ extranet.logcom.usmc.mil
 extranett.logcom.usmc.mil
 fa.hqi.usmc.mil
 facilities-integration.usmc.mil
+fdes-15meuharpers-ferry.harpers-ferry.usmc.mil
 fdi24452.disa.mil1415226.usmc.mil
 fitness.usmc.mil
 fl94.ips0.usmc.mil
@@ -2114,6 +2118,8 @@ nola0510.mfr.usmc.mil
 nola0511.mfr.usmc.mil
 nola0512.mfr.usmc.mil
 nola0919.mcdsus.mcds.usmc.mil
+nomad-fdes-15meuharpers-ferry.harpers-ferry.usmc.mil
+nomadapi-fdes-15meuharpers-ferry.harpers-ferry.usmc.mil
 ns-east.dns.usmc.mil
 ns-west.dns.usmc.mil
 ns1326.ztomy.com5110.usmc.mil
@@ -2506,6 +2512,7 @@ streamsets.audit.usmc.mil
 sts.usmc.mil
 support.mobcom.mfr.usmc.mil
 surveys.mccll.usmc.mil
+sync-fdes-15meuharpers-ferry.harpers-ferry.usmc.mil
 t205109.usmc.mil
 tcpt.22meufwd.usmc.mil
 tcpt1.usmc.mil
@@ -2682,6 +2689,7 @@ weather.iwz.usmc.mil
 weather.lejeune.usmc.mil
 weather.miramar.usmc.mil
 weather.quantico.usmc.mil
+web-fdes-15meuharpers-ferry.harpers-ferry.usmc.mil
 web1.dsid224.usmc.mil
 web1.mol.usmc.mil
 web2.dsid224.usmc.mil
@@ -2690,6 +2698,7 @@ web3270a.mfr.usmc.mil
 web3270b.mfr.usmc.mil
 web3270c.mfr.usmc.mil
 web4.dsid224.usmc.mil
+webapi-fdes-15meuharpers-ferry.harpers-ferry.usmc.mil
 webapps.mcieast.usmc.mil
 webcass.usmc.mil
 webconf.rcen.marines.usmc.mil

@@ -10,6 +10,7 @@ api.eapp.ot.test.aws.dcsa.mil
 api.eapp.training.test.dcsa.mil
 api.eapp.training.test.aws.dcsa.mil
 destin.dcsa.mil
+devtableau.cloud.dcsa.mil
 devtableau.ent.dcsa.mil
 eapp.dcsa.mil
 eapp.aws.dcsa.mil
@@ -67,6 +68,7 @@ stleo.dcsa.mil
 tableau.ent.dcsa.mil
 tesseract-test.ent.dcsa.mil
 tesseract.ent.dcsa.mil
+testtableau.cloud.dcsa.mil
 testtableau.ent.dcsa.mil
 venus.dcsa.mil
 vetting.dcsa.mil

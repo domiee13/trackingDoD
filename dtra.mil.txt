@@ -25,6 +25,7 @@ bc2.dtra.mil
 bcvip.dtra.mil
 bi.dtra.mil
 bi-test.dtra.mil
+bitbucket.anet.dtra.mil
 cbrnedss.dtra.mil
 cbrnedss.gslb-ext.dtra.mil
 clientsite1.unet1.ad.dtra.mil
@@ -77,6 +78,7 @@ dnrdd612s1.dtra.mil
 dnrdd613s1.dtra.mil
 dnws.dtra.mil
 dnws.abq.dtra.mil
+dnxee20c1.anet.dtra.mil
 dtirp.dtra.mil
 dtra1.dtra.mil
 dtra1pt.dtra.mil
@@ -184,6 +186,7 @@ osn.dtra.mil
 owa101.unet1.ad.dtra.mil
 pal.dtra.mil
 pcs.anet.dtra.mil
+portal.cnttr.dtra.mil
 proxy.dtra.mil
 proxy1_hqc.dtra.mil
 proxy2_hqc.dtra.mil

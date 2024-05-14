@@ -1,6 +1,7 @@
 army.mail.mil
 autodiscover.mail.mil
 autodiscover.army.mail.mil
+drm.mail.mil
 edge-cols01.mail.mil
 edge-cols02.mail.mil
 edge-cols03.mail.mil
@@ -109,6 +110,7 @@ web-cols01.mail.mil
 web-cols02.mail.mil
 web-cols03.mail.mil
 web-cols04.mail.mil
+web-cols05.mail.mil
 web-eurd01.mail.mil
 web-mech01.mail.mil
 web-mech02.mail.mil
@@ -119,12 +121,16 @@ web-mont02.mail.mil
 web-mont03.mail.mil
 web-mont04.mail.mil
 web-mont05.mail.mil
+web-monta.mail.mil
 web-ogdn01.mail.mil
 web-ogdn02.mail.mil
 web-okc.mail.mil
+web-okcd.mail.mil
 web-okcd01.mail.mil
 web-okcd02.mail.mil
 web-okcd03.mail.mil
+web-okcd04.mail.mil
+web-okcd05.mail.mil
 web-paci01.mail.mil
 web-ravr.mail.mil
 web-satx01.mail.mil

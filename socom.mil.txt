@@ -1,3 +1,9 @@
+*.socom.mil
+*.apps.sof.socom.mil
+*.apps.test.socom.mil
+*.sof.socom.mil
+*.spse-apps.sof.socom.mil
+*.test.socom.mil
 193cs-dc2.193cs.deployed.socom.mil
 193cs-exch.193cs.deployed.socom.mil
 193cs.deployed.socom.mil
@@ -414,6 +420,8 @@ info2.socpac.socom.mil
 intune.socom.mil
 ios.socom.mil
 isa-server.socom.mil
+ivv-ttc.jfftdmz-km.socom.mil
+ivv-weosprey.jfftdmz-km.socom.mil
 jdi.socom.mil
 jdiadfs.jdi.socom.mil
 jdiadfsex.jdi.socom.mil
@@ -129889,6 +129897,8 @@ powerbi.sof.socom.mil
 priv1.socpac.socom.mil
 priv2.socpac.socom.mil
 privlsf1.socpac.socom.mil
+prod-rdg1.jfftdmz-km.socom.mil
+prod-rdg2.jfftdmz-km.socom.mil
 proxy.socom.mil
 proxy001-1.socom.mil
 proxy001-2.socom.mil
@@ -129916,6 +129926,7 @@ pwww.socjc.socom.mil
 pwwwcoop.socom.mil
 pwwwcoop.socjc.socom.mil
 raiderwest.socom.mil
+rdg-az1-server.km.socom.mil
 reports.sof.socom.mil
 rm.socom.mil
 rmcoop.socom.mil
@@ -130129,6 +130140,8 @@ telework.socom.mil
 telework.rds.socom.mil
 telework2.socom.mil
 teleworkwest.socom.mil
+test-ttc.jfftdmz-km.socom.mil
+test-weosprey.jfftdmz-km.socom.mil
 test.fleetfocus.socom.mil
 threatq.jdi.socom.mil
 tmos-064.socom.mil

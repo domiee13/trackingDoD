@@ -268,6 +268,7 @@ inta106q.msic.dia.mil
 inta427.msic.dia.mil
 iprint-server.msic.dia.mil
 jivu.dia.mil
+l3vpn.dia.mil
 mail.msic.dia.mil
 mailman.msic.dia.mil
 mhsi-252-252.mhsi.med.osd.mil-244-221.dia.mil

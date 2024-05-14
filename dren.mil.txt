@@ -14,6 +14,7 @@ accesspki.erdc.dren.mil
 accorddev.el.erdc.dren.mil
 adfs.rdte.afrl.dren.mil
 adms.erdc.dren.mil
+afsim-help.rdte.afrl.dren.mil
 agc-aip.erdc.dren.mil
 agc-ais.erdc.dren.mil
 agc-geoglobe.erdc.dren.mil
@@ -146,6 +147,7 @@ diap.sms.erdc.dren.mil
 difdataload.erdc.dren.mil
 dig.erdc.dren.mil
 digdev.erdc.dren.mil
+discourse.rdte.afrl.dren.mil
 discover.erdc.dren.mil
 discoverhpc.w.dren.mil
 djs-aatc-tucson.mgmt.dren.mil
@@ -673,6 +675,7 @@ geowatch.erdc.dren.mil
 getsapp.erdc.dren.mil
 getsgeo.erdc.dren.mil
 ggdm.erdc.dren.mil
+gitlab-ee.rdte.afrl.dren.mil
 gitlab.rdte.afrl.dren.mil
 gm-drfortress-hnl.mgmt.dren.mil
 gm-equinix-iad.mgmt.dren.mil
@@ -720,6 +723,7 @@ hotboxtesting.erdc.dren.mil
 huck.eng.dren.mil
 ica.erdc.dren.mil
 identity.erdc.dren.mil
+idp.rdte.afrl.dren.mil
 iealpha.erdc.dren.mil
 iealphacac.erdc.dren.mil
 iebetaapp.erdc.dren.mil
